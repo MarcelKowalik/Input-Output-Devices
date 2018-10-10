@@ -1,2 +1,2 @@
 # Input-Output-Devices
-Input/output Devices and their current Trends
+A Computer System is defined as “a system of one or more computers and associated software with common storage” (OpenCubicles 2017).  Although before any computer will be able to process your data, you need a method to input the data into the machine. Similarly, after the computer has processed your data, you need output to produce the results. For these tasks, we use input and output devices which spread the capabilities of every computer device. 
